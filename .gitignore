@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/spring.cloud.feign.issue-72.iml
+Würde .DS_Store löschen
+Würde .idea/ löschen
+Würde mvnw löschen
+Würde mvnw.cmd löschen
+Würde pom.xml löschen
+Würde target/classes/META-INF/ löschen
+Würde target/classes/application.yaml löschen
+Würde target/maven-archiver/ löschen
+Würde target/maven-status/ löschen
+Würde target/spring.cloud.feign.issue-72-0.0.1-SNAPSHOT.jar.original löschen
+Würde target/surefire-reports/ löschen
+Würde target/test-classes/META-INF/ löschen
+/.idea/
